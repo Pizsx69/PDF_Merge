@@ -16,3 +16,14 @@ C:\Users\Pizsx69\source\repos\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.csproj.C
 C:\Users\Pizsx69\source\repos\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.csproj.CopyComplete
 C:\Users\Pizsx69\source\repos\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.exe
 C:\Users\Pizsx69\source\repos\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.pdb
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\bin\Release\PDF_Merge.exe.config
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\bin\Release\PDF_Merge.exe
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\bin\Release\PDF_Merge.pdb
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.csproj.AssemblyReference.cache
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.Form1.resources
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.Properties.Resources.resources
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.csproj.GenerateResource.cache
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.csproj.CoreCompileInputs.cache
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.exe
+C:\Users\Pizsx69\Documents\GitHub\PDF_Merge\PDF_Merge\obj\Release\PDF_Merge.pdb
