@@ -104,7 +104,7 @@ namespace PDF_Merge
             {
                 pdfs.Add(file);
             }
-            MergePDFs("Output.pdf", pdfs);
+            MergePDFs(outfilename.Text+".pdf", pdfs);
 
         }
 
@@ -149,5 +149,6 @@ namespace PDF_Merge
             pdfs.Clear();
             Merge.Visible = false;
         }
+
     }
 }
