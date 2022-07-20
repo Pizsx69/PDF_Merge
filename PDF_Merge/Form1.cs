@@ -98,7 +98,9 @@ namespace PDF_Merge
 
         private void button2_Click(object sender, EventArgs e)
         {
-            foreach (String file in openFileDialog1.FileNames)
+            pdfs.Clear();
+
+            foreach (String file in listBox1.Items)
             {
                 pdfs.Add(file);
             }
