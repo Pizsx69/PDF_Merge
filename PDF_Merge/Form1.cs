@@ -33,7 +33,7 @@ namespace PDF_Merge
 
             // Allow the user to select multiple images.
             this.openFileDialog1.Multiselect = true;
-            this.openFileDialog1.Title = "My Image Browser";
+            this.openFileDialog1.Title = "My PDF Browser";
 
             DialogResult dr = this.openFileDialog1.ShowDialog();
             if (dr == System.Windows.Forms.DialogResult.OK)
@@ -60,7 +60,7 @@ namespace PDF_Merge
                     catch (Exception ex)
                     {
                         // Could not load the image - probably related to Windows file system permissions.
-                        MessageBox.Show("Cannot display the image: " + file.Substring(file.LastIndexOf('\\'))
+                        MessageBox.Show("Cannot open the pdf: " + file.Substring(file.LastIndexOf('\\'))
                             + ". You may not have permission to read the file, or " +
                             "it may be corrupt.\n\nReported error: " + ex.Message);
                     }
